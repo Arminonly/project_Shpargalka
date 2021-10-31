@@ -1,0 +1,55 @@
+.content {
+  margin: 0px auto;
+  width: 95%;
+}
+
+.component,
+.state,
+.lifecycle,
+.events,
+.refs,
+.api,
+.virtualDom,
+.fragmentMemo,
+.useeffect,
+.routing,
+.context,
+.error,
+.home,
+.form {
+  width: 100%;
+  text-indent: 15px;
+  margin: 0px auto;
+  padding-top: 5px;
+  text-align: justify;
+}
+
+.component h3,
+.state h4,
+.first,
+.refs,
+.error {
+  text-align: center;
+}
+
+.refs ol,
+.refs ul,
+.refs span {
+  text-align: left;
+}
+
+fieldset {
+  display: block;
+  width:40%;
+  margin-left: 2px;
+  margin-right: 2px;
+  padding-top: 0.35em;
+  padding-bottom: 0.625em;
+  padding-left: 0.75em;
+  padding-right: 0.75em;
+  border: 2px groove (зависит от браузера);
+}  
+
+datalist {
+  display: none;
+} 
