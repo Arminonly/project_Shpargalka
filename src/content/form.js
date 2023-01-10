@@ -68,7 +68,7 @@ export default function Form() {
                   <option value='Bob'/>
               </datalist>
               <br />
-              date of birth &nbsp; <input type="text" placeholder='date : month : year' />
+              date of birth &nbsp; <input type="date" placeholder='date : month : year' />
               <br />
               <br />
             </fieldset>
